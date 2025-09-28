@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main pages -->
+  <url>
+    <loc>https://eslam-teacher.com/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://eslam-teacher.com/about</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://eslam-teacher.com/videos</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://eslam-teacher.com/contact</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>
