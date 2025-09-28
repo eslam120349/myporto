@@ -98,6 +98,9 @@ export default function App() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
+        
+        <meta name="google-site-verification" content="cs7QP49XCiezrOmjd-WHHQ7FMkGM5H7NoBwBmhJEKio" />
+        
       </head>
       <body>
         <Outlet />
@@ -105,3 +108,4 @@ export default function App() {
     </html>
   );
 }
+
