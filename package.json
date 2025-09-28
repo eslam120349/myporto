@@ -12,7 +12,16 @@
     "isbot": "^5.1.31",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^7.9.3"
+    "react-router-dom": "^7.9.3",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "mathjs": "^12.4.2",
+    "three": "^0.159.0",
+    "@react-three/fiber": "^8.13.4",
+    "@react-three/drei": "^9.75.4",
+    "katex": "^0.16.9",
+    "react-katex": "^3.0.2",
+    "chartjs-plugin-zoom": "^2.0.1"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.13",
