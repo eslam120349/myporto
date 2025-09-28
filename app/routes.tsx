@@ -29,8 +29,9 @@ export const router = createBrowserRouter([
       {
         path: "sitemap",
         element: <Navigate to="/sitemap.xml" replace />,
-      },
+      }
     ],
   },
 ]);
+
 
