@@ -5,6 +5,7 @@ import AchievementsSection from "~/components/AchievementsSection";
 import TestimonialsSection from "~/components/TestimonialsSection";
 import CoursesSection from "~/components/CoursesSection";
 import BlogSection from "~/components/BlogSection";
+import ActivitySection from "~/components/ActivitySection";
 import Footer from "~/components/Footer";
 
 export const meta: MetaFunction = () => {
