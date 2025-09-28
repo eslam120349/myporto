@@ -4,6 +4,7 @@ import Home from "./routes/home";
 import Videos from "./routes/videos";
 import About from "./routes/about";
 import Contact from "./routes/contact";
+import { Navigate } from "react-router-dom";
 
 export const router = createBrowserRouter([
   {
@@ -33,5 +34,6 @@ export const router = createBrowserRouter([
     ],
   },
 ]);
+
 
 
