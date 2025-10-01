@@ -71,30 +71,25 @@ export default function App() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>إسلام - معلم الرياضيات</title>
         
-        {/* SEO Meta Tags */}
         <meta name="description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
         <meta name="keywords" content="معلم رياضيات, تدريس خصوصي, شرح الرياضيات, حل المسائل, تبسيط المفاهيم, تطوير المهارات" />
         <meta name="author" content="إسلام" />
         <meta name="robots" content="index, follow" />
         
-        {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://eslam-teacher.com/" />
         <meta property="og:title" content="إسلام - معلم الرياضيات المتميز" />
         <meta property="og:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
         <meta property="og:image" content="https://eslam-teacher.com/images/og-image.jpg" />
         
-        {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://eslam-teacher.com/" />
         <meta property="twitter:title" content="إسلام - معلم الرياضيات المتميز" />
         <meta property="twitter:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
         <meta property="twitter:image" content="https://eslam-teacher.com/images/twitter-image.jpg" />
         
-        {/* Favicon */}
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         
-        {/* Fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
