@@ -95,7 +95,7 @@ export default function App() {
         <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
         
         <meta name="google-site-verification" content="cs7QP49XCiezrOmjd-WHHQ7FMkGM5H7NoBwBmhJEKio" />
-        
+        <meta name="msvalidate.01" content="C08C9420D024D570493ED4C6C13AA7C4" />
       </head>
       <body>
         <Outlet />
