@@ -30,6 +30,10 @@ export const router = createBrowserRouter([
       {
         path: "sitemap",
         element: <Navigate to="/sitemap.xml" replace />,
+      },
+      {
+        path: "sitemap",
+        element: <Navigate to="/robots.txt" replace />,
       }
     ],
   },
