@@ -8,7 +8,7 @@ const achievements = [
   },
   {
     title: "الطلاب",
-    value: "50+",
+    value: "500+",
     description: "طالب تم تدريسهم"
   },
   {

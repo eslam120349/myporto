@@ -23,7 +23,7 @@ export default function AboutPage() {
           </p>
           <div className="flex justify-center space-x-4 rtl:space-x-reverse">
             <div className="text-center px-6">
-              <span className="block text-3xl font-bold text-blue-600 dark:text-blue-400">5+</span>
+              <span className="block text-3xl font-bold text-blue-600 dark:text-blue-400">2+</span>
               <span className="text-gray-600 dark:text-gray-300">سنوات خبرة</span>
             </div>
             <div className="text-center px-6">
