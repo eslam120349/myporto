@@ -31,8 +31,15 @@ const videos: VideoItem[] = [
     title: "استكشاف عالم الأعداد الحقيقيّة: أنواع الأعداد ببساطة!",
     description: "في هذا الفيديو التعليمي، سنأخذكم في رحلة ممتعة لاستكشاف عالم الأعداد الحقيقيّة! سنتعرف على الأعداد الطبيعيّة، الأعداد الصحيحة، الأعداد النسبيّة، والأعداد غير النسبيّة بطريقة مبسطة وسهلة الفهم. إذا كنت تتساءل عن الفروق بين هذه الأنواع وكيفية تصنيف الأعداد، فهذا الفيديو هو المكان المناسب لتوضيح كل شيء. استعدوا لتعلّم كيفية التفريق بينها ومعرفة أين تقع الأعداد التي نستخدمها في حياتنا اليومية ضمن هذا التصنيف الرائع!",
     url: "https://www.youtube.com/embed/NpW837oCCFE?si=D2Vk8AiTt3-YNQJx",
-    category: "هندسه",
+    category: "الجبر",
     duration: "1:18"
+  },{
+        id: "vid4",
+    title: "The Trick Behind This Simple Math Problem 🤯 | Learn Algebra the Smart Way",
+    description: "In this video, we solve a fascinating algebra problem using a powerful identity trick!You’re given: x + 1/x = 3 and need to find: x³ + 1/x³ Watch step-by-step how simple algebra turns into something amazing 🤯 Everything is beautifully visualized with Manim animation for a clear and engaging explanation. 🎓 Perfect for students who love smart math shortcuts and creative problem solving. Don’t forget to subscribe and turn on notifications 🔔 for more cool math videos!",
+    url: "https://www.youtube.com/embed/pd0GU8BmRAo?si=GiTq7_vwL2VVUmEp",
+    category: "الجبر",
+    duration: "1:33"
   }
 ];
 
