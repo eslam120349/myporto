@@ -4,8 +4,8 @@ import { Link } from 'react-router';
 const blogPosts = [
   {
     id: 1,
-    title: 'كيف تحب الرياضيات؟',
-    excerpt: 'نصائح وأساليب تجعل تعلم الرياضيات ممتعاً وسهلاً لجميع الطلاب.',
+    title: 'كيف تحب الماث؟',
+    excerpt: 'نصائح وأساليب تجعل تعلم الماث ممتعاً وسهلاً لجميع الطلاب.',
     date: '2024-03-15',
     readTime: '5 دقائق',
     imageUrl: '/images/math-love.jpg'

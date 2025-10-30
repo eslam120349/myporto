@@ -5,9 +5,9 @@ import { Link } from "react-router-dom";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "عن الأستاذ إسلام | معلم الرياضيات" },
-    { name: "description", content: "تعرّف على الأستاذ إسلام - معلم رياضيات مخلص متخصص في تبسيط المفاهيم المعقدة وجعلها ممتعة للطلاب" },
-    { name: "keywords", content: "معلم رياضيات، تعليم الرياضيات، خبرة التدريس، نجاح الطلاب، دروس خصوصية في الرياضيات" },
+    { title: "عن الأستاذ إسلام | معلم الماث" },
+    { name: "description", content: "تعرّف على الأستاذ إسلام - معلم ماث مخلص متخصص في تبسيط المفاهيم المعقدة وجعلها ممتعة للطلاب" },
+    { name: "keywords", content: "معلم ماث، تعليم الماث، خبرة التدريس، نجاح الطلاب، دروس خصوصية في الماث" },
   ];
 };
 
@@ -19,7 +19,7 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl font-bold text-blue-600 dark:text-blue-400 mb-6">عن الأستاذ إسلام</h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 leading-relaxed mb-8">
-            معلم رياضيات مخلص
+            معلم ماث مخلص
           </p>
           <div className="flex justify-center space-x-4 rtl:space-x-reverse">
             <div className="text-center px-6">
@@ -48,7 +48,7 @@ export default function AboutPage() {
                     <svg className="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    بكالوريوس في تعليم الرياضيات
+                    بكالوريوس في تعليم الماث
                   </li>
                   <li className="flex items-center">
                     <svg className="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -93,7 +93,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-4">مجالات التخصص</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="p-4 bg-white dark:bg-gray-600 rounded-lg">
-                    <h4 className="font-semibold text-gray-800 dark:text-white mb-2">الرياضيات الأساسية</h4>
+                    <h4 className="font-semibold text-gray-800 dark:text-white mb-2">الماث الأساسية</h4>
                     <p className="text-gray-600 dark:text-gray-300 text-sm">الجبر، الهندسة، التفاضل والتكامل</p>
                   </div>
                   <div className="p-4 bg-white dark:bg-gray-600 rounded-lg">
@@ -106,7 +106,7 @@ export default function AboutPage() {
                   </div>
                   <div className="p-4 bg-white dark:bg-gray-600 rounded-lg">
                     <h4 className="font-semibold text-gray-800 dark:text-white mb-2">برامج خاصة</h4>
-                    <p className="text-gray-600 dark:text-gray-300 text-sm">أولمبياد الرياضيات، التحضير للمسابقات</p>
+                    <p className="text-gray-600 dark:text-gray-300 text-sm">أولمبياد الماث، التحضير للمسابقات</p>
                   </div>
                 </div>
               </div>
@@ -121,7 +121,7 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-8">فلسفة التدريس</h2>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-12">
-              أؤمن أن كل طالب لديه القدرة على التفوق في الرياضيات. هدفي هو تنمية هذه القدرة من خلال بيئة تعليمية محفزة تعزز الفهم والتفكير النقدي ومهارات حل المشكلات.
+              أؤمن أن كل طالب لديه القدرة على التفوق في الماث. هدفي هو تنمية هذه القدرة من خلال بيئة تعليمية محفزة تعزز الفهم والتفكير النقدي ومهارات حل المشكلات.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105">
@@ -140,7 +140,7 @@ export default function AboutPage() {
                   </svg>
                 </div>
                 <h3 className="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-3">نمو مستمر</h3>
-                <p className="text-gray-600 dark:text-gray-400">مساعدة الطلاب على بناء أساس قوي للتقدم في الرياضيات</p>
+                <p className="text-gray-600 dark:text-gray-400">مساعدة الطلاب على بناء أساس قوي للتقدم في الماث</p>
               </div>
               <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105">
                 <div className="w-16 h-16 mx-auto mb-4 bg-blue-100 dark:bg-blue-900 rounded-full flex items-center justify-center">
@@ -161,7 +161,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-8">خلينا نشتغل مع بعض</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-            سواء كنت تواجه صعوبة في الرياضيات أو ترغب في التفوق في الموضوعات المتقدمة، أنا هنا لأساعدك على تحقيق أهدافك الأكاديمية.
+            سواء كنت تواجه صعوبة في الماث أو ترغب في التفوق في الموضوعات المتقدمة، أنا هنا لأساعدك على تحقيق أهدافك الأكاديمية.
           </p>
           <Link
             to="/contact"

@@ -8,10 +8,10 @@ export default function Hero() {
         مستر إسلام
       </h1>
       <p className="text-2xl md:text-3xl font-medium mb-8 animate-slide-up">
-        مدرس الرياضيات
+        مدرس الماث
       </p>
       <p className="max-w-2xl text-lg md:text-xl leading-relaxed animate-fade-in delay-150 mb-12">
-        اكتشف روعة الأرقام والمعادلات مع دروس شيقة وشروحات إبداعية. انغمس في عالم الرياضيات مع صور تفاعلية وإرشادات شاملة.
+        اكتشف روعة الأرقام والمعادلات مع دروس شيقة وشروحات إبداعية. انغمس في عالم الماث مع صور تفاعلية وإرشادات شاملة.
       </p>
       <Link 
         to="/contact"

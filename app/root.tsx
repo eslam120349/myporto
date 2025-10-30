@@ -69,23 +69,23 @@ export default function App() {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>إسلام - معلم الرياضيات</title>
+        <title>إسلام - معلم </title>
         
-        <meta name="description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
-        <meta name="keywords" content="مستر إسلام, Mr. Eslam, eslam120, معلم رياضيات محترف, مدرس ماث, شرح دروس الرياضيات, دروس رياضيات أونلاين, تعليم خصوصي, تبسيط المفاهيم الرياضية, تطوير مهارات الحل, تعليم التفكير المنطقي, مدرس خصوصي رياضيات, math teacher, private math tutor, online math lessons, math explanations, simplify math concepts, logical thinking skills, Eslam Math Academy, eslam120 education"/>
+        <meta name="description" content="معلم ماث متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
+        <meta name="keywords" content="مستر إسلام, Mr. Eslam, eslam120, معلم ماث محترف, مدرس ماث, شرح دروس الماث, دروس ماث أونلاين, تعليم خصوصي, تبسيط المفاهيم الرياضية, تطوير مهارات الحل, تعليم التفكير المنطقي, مدرس خصوصي ماث, math teacher, private math tutor, online math lessons, math explanations, simplify math concepts, logical thinking skills, Eslam Math Academy, eslam120 education"/>
         <meta name="author" content="إسلام" />
         <meta name="robots" content="index, follow" />
         
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://eslam-teacher.com/" />
-        <meta property="og:title" content="إسلام - معلم الرياضيات المتميز" />
-        <meta property="og:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
+        <meta property="og:title" content="إسلام - معلم الماث المتميز" />
+        <meta property="og:description" content="معلم ماث متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
         <meta property="og:image" content="https://res.cloudinary.com/dc9jmzfbk/image/upload/v1747405554/tnrpd31ytsiwkqigr8do.png" />
         
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://eslam-teacher.com/" />
-        <meta property="twitter:title" content="إسلام - معلم الرياضيات المتميز" />
-        <meta property="twitter:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
+        <meta property="twitter:title" content="إسلام - معلم الماث المتميز" />
+        <meta property="twitter:description" content="معلم ماث متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
         <meta property="twitter:image" content="https://res.cloudinary.com/dc9jmzfbk/image/upload/v1747405554/tnrpd31ytsiwkqigr8do.png" />
         
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />

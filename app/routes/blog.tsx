@@ -4,8 +4,8 @@ import type { Route } from './_types/blog';
 const blogPosts = [
   {
     id: 1,
-    title: 'كيف تحب الرياضيات؟',
-    excerpt: 'نصائح وأساليب تجعل تعلم الرياضيات ممتعاً وسهلاً لجميع الطلاب.',
+    title: 'كيف تحب الماث؟',
+    excerpt: 'نصائح وأساليب تجعل تعلم الماث ممتعاً وسهلاً لجميع الطلاب.',
     date: '2024-03-15',
     readTime: '5 دقائق',
     imageUrl: '/images/math-love.jpg',
@@ -36,7 +36,7 @@ const blogPosts = [
     date: '2024-03-01',
     readTime: '8 دقائق',
     imageUrl: '/images/problem-solving.jpg',
-    category: 'مهارات الرياضيات'
+    category: 'مهارات الماث'
   },
   {
     id: 5,
@@ -85,7 +85,7 @@ export default function Blog() {
           المقالات التعليمية
         </h1>
         <p className="text-center text-gray-600 dark:text-gray-300 mb-12">
-          اكتشف مقالات تعليمية متنوعة في مجال الرياضيات
+          اكتشف مقالات تعليمية متنوعة في مجال الماث
         </p>
 
         {/* Search and Filter Section */}
