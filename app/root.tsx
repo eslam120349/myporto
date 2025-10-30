@@ -72,7 +72,7 @@ export default function App() {
         <title>إسلام - معلم الرياضيات</title>
         
         <meta name="description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
-        <meta name="keywords" content="معلم رياضيات, تدريس خصوصي, شرح الرياضيات, حل المسائل, تبسيط المفاهيم, تطوير المهارات" />
+        <meta name="keywords" content="مستر إسلام, Mr. Eslam, eslam120, معلم رياضيات محترف, مدرس ماث, شرح دروس الرياضيات, دروس رياضيات أونلاين, تعليم خصوصي, تبسيط المفاهيم الرياضية, تطوير مهارات الحل, تعليم التفكير المنطقي, مدرس خصوصي رياضيات, math teacher, private math tutor, online math lessons, math explanations, simplify math concepts, logical thinking skills, Eslam Math Academy, eslam120 education"/>
         <meta name="author" content="إسلام" />
         <meta name="robots" content="index, follow" />
         
