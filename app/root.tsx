@@ -80,13 +80,13 @@ export default function App() {
         <meta property="og:url" content="https://eslam-teacher.com/" />
         <meta property="og:title" content="إسلام - معلم الرياضيات المتميز" />
         <meta property="og:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
-        <meta property="og:image" content="https://eslam-teacher.com/images/og-image.jpg" />
+        <meta property="og:image" content="https://res.cloudinary.com/dc9jmzfbk/image/upload/v1747405554/tnrpd31ytsiwkqigr8do.png" />
         
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://eslam-teacher.com/" />
         <meta property="twitter:title" content="إسلام - معلم الرياضيات المتميز" />
         <meta property="twitter:description" content="معلم رياضيات متميز مع خبرة في تبسيط المفاهيم الرياضية وتطوير مهارات الطلاب. متخصص في المناهج الحديثة وأساليب التدريس المبتكرة." />
-        <meta property="twitter:image" content="https://eslam-teacher.com/images/twitter-image.jpg" />
+        <meta property="twitter:image" content="https://res.cloudinary.com/dc9jmzfbk/image/upload/v1747405554/tnrpd31ytsiwkqigr8do.png" />
         
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         
