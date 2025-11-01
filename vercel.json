@@ -6,5 +6,13 @@
     { "source": "/sitemap", "destination": "/sitemap.xml" },
     { "source": "/(.*)", "destination": "/" },
     { "source": "/robots.txt", "destination": "/robots.txt" }
+  ],
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" }
+      ]
+    }
   ]
 }
