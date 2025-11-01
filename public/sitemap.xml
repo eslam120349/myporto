@@ -3,22 +3,23 @@
   <!-- Main pages -->
   <url>
     <loc>https://mr-eslam.vercel.app/</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2025-11-01T00:00:00+02:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://mr-eslam.vercel.app/about</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2025-11-01T00:00:00+02:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://mr-eslam.vercel.app/videos</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2025-11-01T00:00:00+02:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://mr-eslam.vercel.app/contact</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2025-11-01T00:00:00+02:00</lastmod>
     <priority>0.80</priority>
   </url>
+  <!-- Updated on 2025-11-01 -->
 </urlset>
