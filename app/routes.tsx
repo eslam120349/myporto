@@ -4,6 +4,7 @@ import Home from "./routes/home";
 import Videos from "./routes/videos";
 import About from "./routes/about";
 import Contact from "./routes/contact";
+import Questions from "./routes/questions";
 import { Navigate } from "react-router-dom";
 
 export const router = createBrowserRouter([
@@ -34,6 +35,10 @@ export const router = createBrowserRouter([
       {
         path: "robots.txt",
         element: <Navigate to="/robots.txt" replace />,
+      },
+      {
+        path: "Questions",
+        element: <Questions />,
       }
     ],
   },
