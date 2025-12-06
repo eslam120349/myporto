@@ -6,6 +6,8 @@ const links = [
   { to: "/videos", label: "الفيديوهات" },
   { to: "/about", label: "عني" },
   { to: "/contact", label: "تواصل" },
+  { to: "/Questions", label: "الاساله" },
+
 ];
 
 export default function Nav() {
